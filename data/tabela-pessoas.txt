@@ -1,0 +1,8 @@
+Nome	Idade	Cidade
+Alice	25	São Paulo   Repórter
+Bruno	30	Rio de Janeiro  Fisioterapeuta
+Carla	22	Belo Horizonte  Dentista
+Daniel	28	Porto Alegre    Motorista
+Elaine	35	Salvador    Cozinheira
+Elis    32  Paraná  Intérprete
+Panda   20  Vale da Paz   Dragão Guerreiro
